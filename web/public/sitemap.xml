@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://neboyagency.com/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://neboyagency.com/about</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://neboyagency.com/services</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://neboyagency.com/technology</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://neboyagency.com/communication</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://neboyagency.com/global-trade</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://neboyagency.com/projects</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://neboyagency.com/contact</loc><changefreq>yearly</changefreq><priority>0.8</priority></url>
+</urlset>
